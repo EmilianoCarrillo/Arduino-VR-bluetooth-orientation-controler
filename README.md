@@ -1,7 +1,11 @@
-@ ARDUINO BLUETOOTH SERVO CONTROLLER
+# ARDUINO BLUETOOTH SERVO CONTROLLER
+
+![VRAT](https://raw.githubusercontent.com/emiliano-carrillo/Arduino-VR-bluetooth-orientation-controler/master/VRATmainPhoto.png)
+
 This program is intended to use in VR projects because the movements are specified when the cellphone is on landscape mode.
 
 ## Getting Started
+
 In order to get up and running you should download the Amarino App in your android phone and also import the Amarino library into your project. 
 [You can download all the files here.](http://www.amarino-toolkit.net/index.php/download.html)
 
